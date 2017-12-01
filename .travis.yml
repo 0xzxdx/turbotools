@@ -1,6 +1,6 @@
 language: python
 env:
-  - TOXENV=py36
+  - TOXENV=py35
   # - TOXENV=pep8
   - TOXENV=docs
 
