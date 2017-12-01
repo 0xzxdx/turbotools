@@ -1,7 +1,7 @@
 language: python
 env:
-  - TOXENV=py35
-  - TOXENV=pep8
+  - TOXENV=py36
+  # - TOXENV=pep8
   - TOXENV=docs
 
 install:
