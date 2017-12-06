@@ -3,7 +3,6 @@ import unittest
 class TestCLI(unittest.TestCase):
 
     def test_instance(self):
-        # assert True == None
         pass
 
 
