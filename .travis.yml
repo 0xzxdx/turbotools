@@ -2,9 +2,9 @@ language: python
 python:
     - 3.6
 env:
-  - TOXENV=py35
-  # - TOXENV=pep8
   - TOXENV=docs
+  - TOXENV=pep8
+  - TOXENV=unit
 
 install:
   - pip install tox

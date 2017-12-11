@@ -1,8 +1,8 @@
 import unittest
 
-class TestCLI(unittest.TestCase):
 
-    def test_instance(self):
+class UtilsTest(unittest.TestCase):
+    def test_random(self):
         pass
 
 
