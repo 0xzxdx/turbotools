@@ -1,5 +1,5 @@
 Turbotools
-==================
+^^^^^^^^^^^^^^^^
 
 .. image:: https://travis-ci.org/anshengme/turbotools.svg?branch=master
    :target: https://travis-ci.org/anshengme/turbotools
@@ -10,8 +10,17 @@ Turbotools
 .. image:: https://img.shields.io/pypi/v/turbotools.svg?
    :target: http://badge.fury.io/py/turbotools
 
-.. image:: https://img.shields.io/pypi/pyversions/Django.svg
+.. image:: https://img.shields.io/pypi/pyversions/turbotools.svg
    :target: https://github.com/anshengme/turbotools
 
 .. image:: https://img.shields.io/github/license/mashape/apistatus.svg
    :target: https://github.com/anshengme/turbotools/blob/master/LICENSE
+
+
+发布PyPi
+----------------
+
+::
+
+    python setup.py sdist
+    twine upload dist/*
