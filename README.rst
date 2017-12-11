@@ -10,4 +10,4 @@ Turbotools
 .. image:: https://img.shields.io/pypi/v/turbotools.svg?
    :target: http://badge.fury.io/py/turbotools
 .. image:: https://img.shields.io/pypi/pyversions/Django.svg
-    :target: https://github.com/anshengme/turbotools
+   :target: https://github.com/anshengme/turbotools
