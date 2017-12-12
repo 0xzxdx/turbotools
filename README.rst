@@ -36,7 +36,7 @@ Turbotools
     $ cd turbotools
     $ python setup.py install
 
-实例
+示例
 ===============
 
 - 获取随机字符串
